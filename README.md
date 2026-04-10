@@ -2,6 +2,8 @@
 
 This is the Expo frontend for the NovaNews project. It uses Expo Router, Clerk authentication, NativeWind for Tailwind-style styling, Mediastack for news data, and the Google Generative AI SDK for article analysis.
 
+Live Link : https://novanews-ai.lovable.app/
+
 ## 🚀 Mandatory Run Steps
 
 1. Open a terminal.
